@@ -24,7 +24,7 @@ This is a simple shopping cart application built using React and Redux Toolkit. 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-shopping-cart-repo.git
+   git clone https://github.com/masterAkashBaghel/cart
    cd your-shopping-cart-repo
    ```
 
